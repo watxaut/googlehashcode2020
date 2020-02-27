@@ -1,6 +1,6 @@
 import logging
 
-from model import Library
+from src.model import Library
 
 
 def get_score(libraries, books, n_days):

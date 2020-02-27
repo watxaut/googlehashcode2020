@@ -2,8 +2,7 @@ import logging
 import time
 from pathlib import Path
 
-import helpers
-import parser
+from src import parser, helpers
 
 
 def main():

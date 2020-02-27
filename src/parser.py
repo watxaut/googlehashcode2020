@@ -1,4 +1,4 @@
-from model import Book, Library
+from src.model import Book, Library
 import logging
 
 
